@@ -1,10 +1,8 @@
 "use strict";
 /*    JavaScript 7th Edition
-      Chapter 10
-      Project 10-02
 
       Project to create a drag and drop tangram puzzle
-       Author: Saimai Saho  
+      Author: Saimai Doiron  
       Date: 03/12/2022  
 
       Filename: project10-02.js
